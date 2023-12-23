@@ -17,15 +17,15 @@ using these, will change the logging type to the one you prefer above.
 to install primebit You can do the following:
 
 ```
-npm install primebit.js
+pip install primebit.py
 ```
 
 # Implentation
 
 After you've installed primebit, you can add your text, and implement the logging types like this:
 
-```js
-const prime = require("primebit.js")
+```py
+import primebit
 
 prime.log("a regular message (default log)")
 prime.error("a error message")
