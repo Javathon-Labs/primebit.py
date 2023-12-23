@@ -1,4 +1,6 @@
 # primebit
+***PORTED BY REQUEST FROM weebwashere***
+
 what is primebit you may ask? well **primebit** is a logging npm package that give the users ability, to log anything in a fancy way!
 
 There's also 4 types of logging types you can use:
@@ -17,7 +19,7 @@ using these, will change the logging type to the one you prefer above.
 to install primebit You can do the following:
 
 ```
-pip install primebit.py
+pip install git+https://github.com/YumYummity/primebit.py
 ```
 
 # Implentation
