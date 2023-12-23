@@ -8,7 +8,7 @@ setup(
     version='0.0.1',
     author='YumYummity',
     author_email='034nop@gmail.com',
-    description='a pypi package capable of customizable logging features.',
+    description='a python package capable of customizable logging features.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/YumYummity/primebit.py/',
