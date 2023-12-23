@@ -1,4 +1,4 @@
-from . import colors
+from .colors import colors
 
 class prime:
   def setColor(mtype, color): 
