@@ -25,7 +25,7 @@ pip install primebit.py
 After you've installed primebit, you can add your text, and implement the logging types like this:
 
 ```py
-import primebit
+from primebit import prime
 
 prime.log("a regular message (default log)")
 prime.error("a error message")
