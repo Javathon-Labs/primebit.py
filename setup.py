@@ -4,7 +4,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='cardboard.py',
+    name='primebit.py',
     version='0.0.1',
     author='YumYummity',
     author_email='034nop@gmail.com',
