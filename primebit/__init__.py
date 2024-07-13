@@ -1,3 +1,3 @@
-from .primebit import prime
+from .primebit import p
 
-__all__ = ['prime']
+__all__ = ['p']
