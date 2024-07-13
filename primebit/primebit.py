@@ -1,6 +1,6 @@
 from .colors import colors
 
-class prime:
+class p:
   def setColor(mtype, color): 
     if mtype == 'logs':
       colors["logs"] = color
